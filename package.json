@@ -43,7 +43,7 @@
     "supports-semigraphics": "^1.0.1",
     "url-relation": "github:stevenvachon/url-relation",
     "urlcache": "github:stevenvachon/urlcache",
-    "walk-parse5": "^2.0.0"
+    "walk-parse5": "^1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
